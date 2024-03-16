@@ -1,4 +1,4 @@
-### The Parameter Calculations and Explation based n each layers
+### The Parameter Calculations and Explanations based on each layer
 ---
 
 1. **Convolutional Layer (First Convolutional Layer)**:
