@@ -23,4 +23,4 @@
 
 Finally, the total number of parameters is obtained by summing up the parameters from all layers.
 
-These calculations yield a total of 11,191,425 trainable parameters in the ResNet model.
+These calculations yield a total of 1,11,91,425 trainable parameters in the ResNet model.
