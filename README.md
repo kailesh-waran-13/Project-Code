@@ -1,3 +1,6 @@
+### The Parameter Calculations and Explation based n each layers
+---
+
 1. **Convolutional Layer (First Convolutional Layer)**:
    - The first convolutional layer has a kernel size of 7x7, operates on 3 input channels, and produces 64 output channels.
    - Parameters are calculated using the formula: `(kernel_height * kernel_width * input_channels + 1) * output_channels`.
